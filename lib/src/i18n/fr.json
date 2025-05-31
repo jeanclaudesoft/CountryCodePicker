@@ -48,7 +48,7 @@
     "CO": "Colombie",
     "KM": "Comores",
     "CG": "République du Congo",
-    "CD": "Congo, République démocratique",
+    "CD": "RDC",
     "CK": "Îles Cook",
     "CR": "Costa Rica",
     "CI": "Côte-d'Ivoire",
@@ -248,5 +248,6 @@
     "RS": "Serbie",
     "SX": "Saint-Martin (partie néerlandaise)",
     "SS": "Sud-Soudan",
-    "XK": "Kosovo"
+    "XK": "Kosovo",
+    "no_country": "Aucun pays"
 }
